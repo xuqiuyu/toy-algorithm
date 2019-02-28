@@ -1,1 +1,2 @@
-## try some simple algorithms
+# Try some simple algorithms
+## You don't try, you never know ...
